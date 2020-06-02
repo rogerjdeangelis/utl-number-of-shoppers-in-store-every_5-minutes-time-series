@@ -16,8 +16,12 @@ https://tinyurl.com/ycq2k2zg
 https://stackoverflow.com/questions/62060183/how-to-get-people-in-the-store-at-every-5-minutes                      
                                                                                                                     
 Chinsoon12 profile                                                                                                  
-https://stackoverflow.com/users/1989480/chinsoon12                                                                  
-                                                                                                                    
+https://stackoverflow.com/users/1989480/chinsoon12 
+
+github                                                                                                                                           
+https://tinyurl.com/y6hh73qt                                                                                                                     
+https://github.com/rogerjdeangelis/utl-identify-overlapping-intervals-with-multiple-drug-exposure   
+                         
 *_                   _                                                                                              
 (_)_ __  _ __  _   _| |_                                                                                            
 | | '_ \| '_ \| | | | __|                                                                                           
