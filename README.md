@@ -18,7 +18,12 @@ Number of Shoppers every 5 minutes between 8:30AM and 9:00AM
     https://stackoverflow.com/questions/62060183/how-to-get-people-in-the-store-at-every-5-minutes                     
                                                                                                                        
     Chinsoon12 profile                                                                                                 
-    https://stackoverflow.com/users/1989480/chinsoon12                                                                 
+    https://stackoverflow.com/users/1989480/chinsoon12    
+    
+    related github                                                                                                                                           
+    https://tinyurl.com/y6hh73qt                                                                                                                     
+    https://github.com/rogerjdeangelis/utl-identify-overlapping-intervals-with-multiple-drug-exposure   
+
                                                                                                                        
     *_                   _                                                                                             
     (_)_ __  _ __  _   _| |_                                                                                           
